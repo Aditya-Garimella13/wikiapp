@@ -1,0 +1,45 @@
+Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+Successfully wrote to the file.
+Jan 27, 2021 12:20:41 AM Project_3.json_object.App parseurl
+INFO: This function has a parameter of url and is used to fetch a json
+Mock for URL, hashCode: 1013620810
+Response code is: 200
+
+JSON Response in String format
+{"pageid":01,"*":"==See also==\n*[[Lua (programming language)]]\n*[[Squirrel (programming language)]]\n\n="}
+Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+Successfully wrote to the file.
+Jan 27, 2021 12:22:32 AM Project_3.json_object.App parseurl
+INFO: This function has a parameter of url and is used to fetch a json
+Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+Jan 27, 2021 12:24:39 AM Project_3.json_object.App links
+INFO: This function has a parameter of json object and is used to fetch the see all links
+Successfully wrote to the file.
+Jan 27, 2021 12:24:39 AM Project_3.json_object.App parseurl
+INFO: This function has a parameter of url and is used to fetch a json
+Jan 27, 2021 12:24:39 AM Project_3.json_object.App pageid
+INFO: This function has a parameter of json object and is used to fetch pageid
+Jan 27, 2021 12:24:39 AM Project_3.json_object.App links
+INFO: This function has a parameter of json object and is used to fetch the see all links
+Jan 27, 2021 12:24:39 AM Project_3.json_object.App links
+INFO: This function has a parameter of json object and is used to fetch the see all links
+Jan 27, 2021 12:24:39 AM Project_3.json_object.App pageid
+INFO: This function has a parameter of json object and is used to fetch pageid
+Jan 27, 2021 12:24:39 AM Project_3.json_object.App pageid
+INFO: This function has a parameter of json object and is used to fetch pageid
+Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+Jan 27, 2021 1:01:15 AM Project_3.json_object.App links
+INFO: This function has a parameter of json object and is used to fetch the see all links
+Successfully wrote to the file.
+Jan 27, 2021 1:01:15 AM Project_3.json_object.App parseurl
+INFO: This function has a parameter of url and is used to fetch a json
+Jan 27, 2021 1:01:15 AM Project_3.json_object.App pageid
+INFO: This function has a parameter of json object and is used to fetch pageid
+Jan 27, 2021 1:01:15 AM Project_3.json_object.App links
+INFO: This function has a parameter of json object and is used to fetch the see all links
+Jan 27, 2021 1:01:15 AM Project_3.json_object.App links
+INFO: This function has a parameter of json object and is used to fetch the see all links
+Jan 27, 2021 1:01:15 AM Project_3.json_object.App pageid
+INFO: This function has a parameter of json object and is used to fetch pageid
+Jan 27, 2021 1:01:15 AM Project_3.json_object.App pageid
+INFO: This function has a parameter of json object and is used to fetch pageid

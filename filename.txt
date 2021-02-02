@@ -1,0 +1,2 @@
+https://en.wikipedia.org/wiki/Lua_(programming_language)
+https://en.wikipedia.org/wiki/Squirrel_(programming_language)
